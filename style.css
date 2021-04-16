@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.distoration{
+    width: 900px;
+    height: 900px;
+    position: absolute;
+    bottom: 0;
+    
+}
+
